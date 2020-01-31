@@ -8,7 +8,7 @@ example of the config file:
 ```
 commands:
   command: info
-  command: &2&lcolored info!
+  command2: &2&lcolored info!
 ```
 the plugin also supports color codes.
 
