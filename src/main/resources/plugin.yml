@@ -1,0 +1,10 @@
+name: Infocommands
+version: ${project.version}
+main: megacrafter10.infocommands.InfoCommands
+api-version: 1.14
+authors: [MegaCrafter10]
+description: Displays information about a specific command
+commands:
+    info:
+        usage: /info <command>
+        description: displays information about the specified command

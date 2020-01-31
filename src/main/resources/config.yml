@@ -1,0 +1,8 @@
+# format:
+#   <command>:<info_to_display>
+
+commands:
+  command: "info"
+  command2: "&6colored info!"
+  /another_command: "&6&lcolored and bold info!"
+
